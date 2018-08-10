@@ -15,7 +15,7 @@ Various quickstart projects for getting you started with JBoss Fuse
 * [cxf](cxf) - contains various quickstart projects using [Apache CXF](http://cxf.apache.org) for web services and REST.
 * [custom](custom) - shows how to build a custom assembly starting from the JBoss Fuse full kit
 
-----
+ => Some additional content
 
 
 
